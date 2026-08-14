@@ -37,8 +37,17 @@ PolyPay 官方更新、开发者资源、接入指南与社区入口。
 ### Agent and x402 payments / Agent 与 x402 支付
 
 - [Agent payments with x402](https://polypay.ai/en/docs/x402-agent-payments)
+- [x402 overview](https://polypay.ai/en/docs/x402)
+- [API monetization with x402](https://polypay.ai/en/docs/api-monetization-x402)
+- [x402 vs. API keys](https://polypay.ai/en/docs/x402-vs-api-keys)
 - [x402 integration](https://polypay.ai/en/docs/x402-integration)
 - [Non-custodial crypto payments](https://polypay.ai/en/docs/non-custodial-crypto-payments)
+
+### Checkout and plugin guides / Checkout 与插件指南
+
+- [USDT TRON checkout](https://polypay.ai/en/docs/usdt-tron-checkout)
+- [WHMCS crypto payment gateway](https://polypay.ai/en/docs/whmcs-crypto-payment)
+- [WHMCS USDT payment gateway](https://polypay.ai/en/docs/whmcs-usdt-payment-gateway)
 
 ## Official repositories / 官方仓库
 
